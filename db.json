@@ -1,0 +1,19 @@
+{
+  "wasteReports": [
+    {
+      "id": 1,
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "user": "JohnDoe",
+      "wasteType": "Plastic",
+      "weightEstimation": "10 kg",
+      "photoUrl": "https://example.com/photos/waste_report_photo.jpg",
+      "photos": [
+        {
+          "id": 1,
+          "url": "https://example.com/photos/waste_report_photo.jpg"
+        }
+      ]
+    }
+  ]
+}
